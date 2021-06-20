@@ -7,6 +7,9 @@ package easy
 // Time complexity O(n)
 // Space complexity O(n)
 
+// input: [3, 5, -4, 8, 11, 1, -1, 6]
+// output: 10
+
 func TwoNumberSum(array []int, target int) []int {
 	lookupSet := make(map[int]bool)
 

@@ -1,7 +1,7 @@
 package easy
 
 //
-// Link: https://www.algoexpert.io/questions/Two%20Number%20Sum
+// Link: https://www.algoexpert.io/questions/Tournament%20Winner
 //
 //
 // Time complexity O(n)
